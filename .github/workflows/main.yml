@@ -6,6 +6,7 @@ on:
       - main
       - staging
       - dev
+      - sritam-23
 
 jobs:
   terraform:
